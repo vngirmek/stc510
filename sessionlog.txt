@@ -1,0 +1,206 @@
+Script started on Tue Feb  6 18:00:22 2024
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Villiahs-Mac-mini.local/Users/villiahngirmekur[0m[27m[24m[Jvilliahngirmekur@Villiahs-Mac-mini ~ % [K[?2004hccd DOW  ownloads[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Villiahs-Mac-mini.local/Users/villiahngirmekur/Downloads[0m[27m[24m[Jvilliahngirmekur@Villiahs-Mac-mini Downloads % [K[?2004httar -zxvf log.tar.gz[?2004l
+x log.csv
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Villiahs-Mac-mini.local/Users/villiahngirmekur/Downloads[0m[27m[24m[Jvilliahngirmekur@Villiahs-Mac-mini Downloads % [K[?2004hggrep education "x log.csv"[?2004l
+grep: x log.csv: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Villiahs-Mac-mini.local/Users/villiahngirmekur/Downloads[0m[27m[24m[Jvilliahngirmekur@Villiahs-Mac-mini Downloads % [K[?2004hggrep education x\ log.csv[?2004l
+grep: x log.csv: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Villiahs-Mac-mini.local/Users/villiahngirmekur/Downloads[0m[27m[24m[Jvilliahngirmekur@Villiahs-Mac-mini Downloads % [K[?2004hggrep education x log.csv[?2004l
+grep: x: No such file or directory
+log.csv:1.202.140.ged,2017-06-27,01:34:47,0.0,886982.0,0000769993-17-000435,taleducation0gscototal.txt,200.0,5870.0,0.0,0.0,0.0,9.0,0.0,
+log.csv:66.249.64.efi,2017-06-27,02:14:29,0.0,1585002.0,0001585002-14-000027,mhglobaleducationq32014f.htm,304.0,218.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:61.135.217.idh,2017-06-27,02:15:35,0.0,922475.0,0001213900-16-016519,xslF345X03/f4082916zhang_itteducational.,200.0,4073.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:66.249.64.dea,2017-06-27,03:29:47,0.0,1561880.0,0001213900-16-015821,f8k080816_legacyeducation.htm,200.0,2911.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:40.77.167.cdg,2017-06-27,03:31:10,0.0,922475.0,0001213900-16-015395,xslF345X03/f4072716zhang_itteducational.,200.0,3958.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:209.126.105.hhg,2017-06-27,03:43:53,0.0,922475.0,0001213900-16-015149,f4071816yude_itteducational.xml,200.0,7941.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:108.59.3.iee,2017-06-27,03:48:05,0.0,922475.0,0001213900-16-015149,f4071816yude_itteducational.xml,200.0,7929.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:86.131.30.fad,2017-06-27,04:28:07,0.0,1130713.0,0001130713-16-000102,ex991investoreducationsess.htm,200.0,182762.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:86.131.30.fad,2017-06-27,04:28:07,0.0,1130713.0,0001130713-16-000102,a8-kinvestoreducationsessi.htm,200.0,25528.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:66.249.64.cgg,2017-06-27,04:39:40,0.0,1585002.0,0001585002-14-000027,mhglobaleducationq32014f.htm,304.0,218.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:111.65.68.cje,2017-06-27,05:09:25,0.0,1672885.0,0001213900-17-005203,f10q0317_doerseducation.htm,200.0,14236.0,0.0,0.0,0.0,9.0,0.0,
+log.csv:86.153.148.abf,2017-06-27,06:14:10,0.0,1046568.0,0001132625-10-000026,v13ga4careereducation.txt,200.0,5440.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:66.249.75.fcg,2017-06-27,06:27:24,0.0,1585002.0,0001585002-14-000027,mhglobaleducationq32014f.htm,304.0,248.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:86.153.148.abf,2017-06-27,06:59:20,0.0,922475.0,0001086364-10-008787,itteducation012910.txt,200.0,5188.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:40.77.167.ifh,2017-06-27,07:03:14,0.0,1302343.0,0000869311-17-000385,education.realty.trust..txt,200.0,5145.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:86.153.148.abf,2017-06-27,07:44:03,0.0,895421.0,0000895421-10-000405,neworientaleducation1.txt,200.0,3800.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:66.249.64.cgg,2017-06-27,08:16:39,0.0,1585002.0,0001585002-14-000027,mhglobaleducationq32014f.htm,304.0,218.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:86.153.148.abf,2017-06-27,08:21:58,0.0,895421.0,0000895421-10-000405,neworientaleducation1.txt,200.0,3800.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:86.153.148.abf,2017-06-27,08:57:07,0.0,102909.0,0000932471-10-000644,educationrealtytrust.htm,200.0,4033.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:137.189.74.bjg,2017-06-27,10:01:03,0.0,1672885.0,0001213900-16-019788,fs12016_doerseducation.htm,200.0,74203.0,0.0,0.0,0.0,9.0,0.0,
+log.csv:66.249.64.cgg,2017-06-27,11:40:27,0.0,1585002.0,0001585002-14-000027,mhglobaleducationq32014f.htm,304.0,218.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:180.165.168.jeh,2017-06-27,12:45:47,0.0,1364742.0,0000215457-17-003221,tal.education.group..txt,200.0,4925.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:180.165.168.jeh,2017-06-27,12:49:03,0.0,886982.0,0000769993-17-000435,taleducation0gscototal.txt,200.0,5870.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:199.192.67.ihd,2017-06-27,13:03:10,0.0,861177.0,0000861177-17-000012,new_oriental_education_tech.txt,200.0,11854.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:199.192.67.ihd,2017-06-27,13:15:16,0.0,1364742.0,0000215457-17-003221,tal.education.group..txt,200.0,11588.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:40.77.167.gch,2017-06-27,13:29:30,0.0,1013934.0,0001213900-14-003059,f10q0314_strayereducation.htm,200.0,42045.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:117.136.0.cca,2017-06-27,13:38:10,0.0,1364742.0,0000215457-17-003221,tal.education.group..txt,200.0,4925.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:204.4.182.ide,2017-06-27,13:48:17,0.0,886982.0,0000769993-17-000435,taleducation0gscototal.txt,200.0,5870.0,0.0,0.0,0.0,9.0,0.0,
+log.csv:156.33.118.eja,2017-06-27,14:37:56,0.0,929887.0,0000215457-17-002148,apollo.education.gro.txt,200.0,5094.0,0.0,0.0,0.0,9.0,0.0,
+log.csv:156.33.118.eja,2017-06-27,14:39:05,0.0,102909.0,0000932471-17-000772,apolloeducationgroupinc.htm,200.0,4391.0,0.0,0.0,0.0,9.0,0.0,
+log.csv:75.99.154.dcg,2017-06-27,15:01:35,0.0,1561880.0,0001213900-17-005135,f10q0317_legacyeducation.htm,200.0,373754.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:75.99.154.dcg,2017-06-27,15:01:35,0.0,1561880.0,0001213900-17-005135,f10q0317_legacyeducation.htm,301.0,688.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:206.200.253.bjg,2017-06-27,15:02:11,0.0,861177.0,0000861177-17-000012,new_oriental_education_tech.txt,200.0,4678.0,0.0,0.0,0.0,9.0,0.0,
+log.csv:86.153.148.abf,2017-06-27,15:26:50,0.0,31667.0,0000732847-09-000020,educationaldevelopmentcorp1.htm,200.0,4564.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:86.153.148.abf,2017-06-27,15:49:11,0.0,895421.0,0000895421-09-000638,careereducation3.txt,200.0,3811.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:86.153.148.abf,2017-06-27,15:51:33,0.0,895421.0,0000895421-09-000638,careereducation3.txt,200.0,3811.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:54.152.198.ghg,2017-06-27,15:58:24,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116501.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:54.70.205.haa,2017-06-27,15:58:26,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,1054616.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:54.70.205.haa,2017-06-27,15:58:26,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,0.0,429379.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:75.126.204.cfi,2017-06-27,15:58:26,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,1054580.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:54.152.198.ghg,2017-06-27,15:58:36,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116309.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:52.90.157.idh,2017-06-27,15:58:39,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116309.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:52.90.157.idh,2017-06-27,15:58:43,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116309.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:46.12.130.gfj,2017-06-27,15:59:41,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116655.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:54.208.79.djc,2017-06-27,16:00:28,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116309.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:54.208.79.djc,2017-06-27,16:00:28,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,301.0,693.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:54.200.115.gig,2017-06-27,16:00:57,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,301.0,688.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:54.200.115.gig,2017-06-27,16:00:58,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116410.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:54.165.81.gbi,2017-06-27,16:01:05,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116309.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:54.165.81.gbi,2017-06-27,16:01:05,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,301.0,693.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:107.22.225.dea,2017-06-27,16:01:18,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,1054304.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:54.208.0.fef,2017-06-27,16:01:36,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116415.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:54.208.0.fef,2017-06-27,16:01:36,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,301.0,693.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:34.196.222.bic,2017-06-27,16:02:09,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116309.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:46.12.130.gfj,2017-06-27,16:03:43,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116415.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:71.46.209.fdh,2017-06-27,16:05:27,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116415.0,0.0,0.0,0.0,9.0,0.0,
+log.csv:46.12.130.gfj,2017-06-27,16:07:41,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116415.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:46.12.130.gfj,2017-06-27,16:11:39,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116415.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:46.12.130.gfj,2017-06-27,16:15:34,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116415.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:71.11.1.gif,2017-06-27,16:17:41,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116309.0,0.0,0.0,0.0,9.0,0.0,
+log.csv:199.192.67.ihd,2017-06-27,16:27:39,0.0,861177.0,0000861177-17-000012,new_oriental_education_tech.txt,200.0,11854.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:202.181.233.bhj,2017-06-27,16:29:41,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,1054604.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:104.155.166.abc,2017-06-27,16:41:50,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,1053711.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:66.249.64.idh,2017-06-27,16:42:11,0.0,1585002.0,0001585002-14-000027,mhglobaleducationq32014f.htm,304.0,218.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:64.140.243.cgg,2017-06-27,16:54:31,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,1054580.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:173.8.168.dci,2017-06-27,16:59:36,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116415.0,0.0,0.0,0.0,9.0,0.0,
+log.csv:108.58.98.iah,2017-06-27,17:14:17,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116309.0,0.0,0.0,0.0,9.0,0.0,
+log.csv:199.192.67.ihd,2017-06-27,17:35:04,0.0,1364742.0,0000215457-17-003221,tal.education.group..txt,200.0,11588.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:108.58.98.iah,2017-06-27,17:45:57,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116309.0,0.0,0.0,0.0,9.0,0.0,
+log.csv:71.11.1.hfe,2017-06-27,18:00:24,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116309.0,0.0,0.0,0.0,9.0,0.0,
+log.csv:66.249.64.bhj,2017-06-27,18:50:13,0.0,1585002.0,0001585002-14-000027,mhglobaleducationq32014f.htm,304.0,218.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:54.200.115.gig,2017-06-27,19:00:14,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,301.0,688.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:54.200.115.gig,2017-06-27,19:00:16,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116410.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:38.101.16.beh,2017-06-27,20:13:29,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116415.0,0.0,0.0,0.0,9.0,0.0,
+log.csv:38.101.16.beh,2017-06-27,20:15:21,0.0,1561880.0,0001213900-17-005135,f10q0317_legacyeducation.htm,200.0,37266.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:50.74.184.bff,2017-06-27,20:20:51,0.0,1013934.0,0001213900-17-002487,def14a0317_strayereducation.htm,200.0,79213.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:167.219.0.egd,2017-06-27,21:41:29,0.0,102909.0,0000932471-17-002640,grandcanyoneducationinc.htm,200.0,4392.0,0.0,0.0,0.0,9.0,0.0,
+log.csv:166.70.66.aig,2017-06-27,21:43:20,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116535.0,0.0,0.0,0.0,9.0,0.0,
+log.csv:71.9.229.cje,2017-06-27,21:47:49,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116547.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:71.9.229.cje,2017-06-27,21:47:49,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116610.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:107.77.227.cib,2017-06-27,21:48:53,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116490.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:54.200.115.gig,2017-06-27,22:00:18,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,301.0,688.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:54.200.115.gig,2017-06-27,22:00:20,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116410.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:209.91.96.eda,2017-06-27,22:01:55,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116415.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:41.193.164.bgd,2017-06-27,22:23:33,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116309.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:86.131.30.fad,2017-06-27,22:24:41,0.0,1561880.0,0001213900-17-001550,f8k021517_legacyeducation.htm,200.0,56549.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:12.174.234.gjj,2017-06-27,22:35:28,0.0,1013934.0,0001213900-17-002487,def14a0317_strayereducation.htm,200.0,79307.0,0.0,0.0,0.0,9.0,0.0,
+log.csv:86.153.148.abf,2017-06-27,22:41:48,0.0,1046568.0,0001132625-09-000021,v13ga3careereducation.txt,200.0,5619.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:98.146.86.fih,2017-06-27,22:55:51,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacyeducation.htm,200.0,116589.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:66.249.66.chj,2017-06-27,23:41:30,0.0,1585002.0,0001585002-14-000027,mhglobaleducationq32014f.htm,304.0,248.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:86.153.148.abf,2017-06-27,23:54:09,0.0,1302343.0,0001390777-09-000029,educationrealty2008yebnymc.txt,200.0,7078.0,0.0,0.0,0.0,10.0,0.0,
+log.csv:58.177.7.fad,2017-06-27,23:54:52,0.0,1364742.0,0000215457-17-003221,tal.education.group..txt,200.0,4931.0,0.0,0.0,0.0,10.0,0.0,
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Villiahs-Mac-mini.local/Users/villiahngirmekur/Downloads[0m[27m[24m[Jvilliahngirmekur@Villiahs-Mac-mini Downloads % [K[?2004hggrep -o education x log.csv[?2004l
+grep: x: No such file or directory
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+log.csv:education
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Villiahs-Mac-mini.local/Users/villiahngirmekur/Downloads[0m[27m[24m[Jvilliahngirmekur@Villiahs-Mac-mini Downloads % [K[?2004hggrep -o education x log.csv > rec [Koordsres   _results.txt[?2004l
+grep: x: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Villiahs-Mac-mini.local/Users/villiahngirmekur/Downloads[0m[27m[24m[Jvilliahngirmekur@Villiahs-Mac-mini Downloads % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Tue Feb  6 18:09:37 2024
