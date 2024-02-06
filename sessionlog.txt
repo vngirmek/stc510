@@ -1,3 +1,5 @@
+Villiah Ngirmekur STC510 Project 2
+
 Script started on Tue Feb  6 18:00:22 2024
 [1m[7m%[27m[1m[0m                                                                                ]7;file://Villiahs-Mac-mini.local/Users/villiahngirmekur[0m[27m[24m[Jvilliahngirmekur@Villiahs-Mac-mini ~ % [K[?2004hccd DOW  ownloads[?2004l
 [1m[7m%[27m[1m[0m                                                                                ]7;file://Villiahs-Mac-mini.local/Users/villiahngirmekur/Downloads[0m[27m[24m[Jvilliahngirmekur@Villiahs-Mac-mini Downloads % [K[?2004httar -zxvf log.tar.gz[?2004l
